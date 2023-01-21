@@ -1,0 +1,6 @@
+submit_nutton =  style="-ms-transform-origin-x: left 50px;"
+
+first name = style="margin-top:20px;"
+body = style="margin-top:20px; color: rgb(0, 246, 250); background-color: rgb(0, 0, 0);"
+
+h1 = style= "color: antiquewhite;"
